@@ -7,4 +7,5 @@
 ## Usage
 
 - Copy `userChrome.css` and `colors.css` to the `chrome` folder in your Zen profile
+- Set `toolkit.legacyUserProfileCustomizations.stylesheets` to `true` in `about:config`
 - Restart the browser
